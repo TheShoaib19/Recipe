@@ -1,2 +1,2 @@
 # Recipe
-Recipes made by KN
+Recipes made for Odin
