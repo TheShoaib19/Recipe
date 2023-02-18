@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
+img{
+    width: 80%;
+}
+button{
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration:double;
+}
+ol, .Ingredients{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(137, 242, 137);
+}
+ul{
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#ing{
+    font-size: 15px;
+}
